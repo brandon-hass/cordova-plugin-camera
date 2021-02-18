@@ -20,6 +20,9 @@
 -->
 # Release Notes
 
+### 2.3.2 (Feb 18, 2021)
+* [GH-588] feat(android): Cache images in device storage, devices have enough space now.
+
 ### 2.3.1 (Dec 07, 2016)
 * Fix missing license headers.
 * [CB-12086](https://issues.apache.org/jira/browse/CB-12086) Regenerate README.md from template
